@@ -77,7 +77,9 @@ public class MainActivity extends Activity {
     	private static final String JSON_USERLIST_DATA_FULLNAME = "full_name";
     	private static final String JSON_ID = "id";
     	
-    	private static final String ACCESS_TOKEN = "1419229302.32cf788.30e8bd13dd1d4da19c68d6f93974e4a8";
+    	//private static final String ACCESS_TOKEN = "1419229302.32cf788.30e8bd13dd1d4da19c68d6f93974e4a8¸";
+    	private static final String ACCESS_TOKEN = "1419229302.32cf788.b6f8c641ba364f1d9d8512347c884ce7";
+    	
     	
     	private static final String JSON_RECENT_PAGINATION = "pagination";
     	private static final String JSON_RECENT_PAGINATION_NEXTURL = "next_url";
